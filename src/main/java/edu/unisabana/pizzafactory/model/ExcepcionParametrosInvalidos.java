@@ -14,7 +14,5 @@ public class ExcepcionParametrosInvalidos extends Exception {
     public ExcepcionParametrosInvalidos(String message) {
         super(message);
     }
-    
-    
-    
+
 }
